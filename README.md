@@ -1,0 +1,2 @@
+# Suspicious-Activity-Detection-in-Surveillance-Videos-Using-Deep-Learning
+we developed a deep learning based system that monitors campus CCTV footage and identifies suspicious or illegal activities. The system automatically sends an alert message to the head security person whenever unusual behavior is detected. I trained and tuned the model using video data to improve the accuracy and reliability of the detections.
