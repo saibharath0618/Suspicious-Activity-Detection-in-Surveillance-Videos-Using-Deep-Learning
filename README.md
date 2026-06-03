@@ -12,7 +12,7 @@
 ## 🖼️ Project Preview
 | Dashboard – Suspicious Detection | Dashboard – ID Card Detection |
 |---|---|
-| ![suspicious detection.jpeg](suspicious detection.jpeg) | ![ID Card Detection](id detection.jpeg) |
+| ![Suspicious Detection](screenshot_suspicious.png) | ![ID Card Detection](screenshot_idcard.png) |
 
 ## 🔍 About
 A **real-time intelligent surveillance system** developed as a B.Tech final year project at **GITAM University, Bengaluru**. The system monitors campus CCTV footage and automatically identifies suspicious or illegal activities using a hybrid **CNN + LSTM** deep learning pipeline. Upon detection, it instantly sends **automated email alerts** to security personnel, enabling proactive intervention.
